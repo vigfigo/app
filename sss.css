@@ -131,6 +131,16 @@ display: block;
   width: 100%;
 }
 #headerh1{
-  width: 50%;
+  display: none;
+}
+  nav li{
+
+  width: 25%;
+  padding: 5px;
+
+
+}
+nav{
+  height: 150px;
 }
 }
